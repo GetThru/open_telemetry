@@ -7,7 +7,7 @@ Library to simplify Opentelemetry Tracing in Elixir
 ```elixir
 def deps do
   [
-    {:getthru_opentelemetry, git: "https://github.com/GetThru/getthru_opentelemetry"}
+    {:getthru_open_telemetry, git: "https://github.com/GetThru/getthru_opentelemetry"}
   ]
 end
 ```
