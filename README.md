@@ -1,16 +1,13 @@
-# GetthruOpenTelemetry
+# Getthru Opentelemetry
 
-**TODO: Add description**
+Library to simplify Opentelemetry Tracing in Elixir
 
 ## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `getthru_open_telemetry` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:getthru_open_telemetry, "~> 0.1.0"}
+    {:getthru_opentelemetry, git: "https://github.com/GetThru/getthru_opentelemetry"}
   ]
 end
 ```
